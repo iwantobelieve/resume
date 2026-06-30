@@ -20,11 +20,11 @@
   },
   "homepage": "https://github.com/iwantobelieve/resume#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12",
-    "font-spider": "^1.3.5"
+    "cheerio": "^1.0.0-rc.12"
   },
   "devDependencies": {
     "@types/node": "^20.8.9",
-    "tsx": "^4.6.2"
+    "font-spider": "^1.3.5",
+    "tsx": "^4.22.4"
   }
 }

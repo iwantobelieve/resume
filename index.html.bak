@@ -1,26 +1,8 @@
-<!DOCTYPE html><html><head>
-        <style id="webfonts">
-          /*声明 WebFont*/
-          @font-face {
-            font-family: 'LXGWWenKaiLite-Regular';
-            src: url('./fonts/LXGWWenKaiLite-Regular.eot');
-            src:
-              url('./fonts/LXGWWenKaiLite-Regular.eot?#font-spider') format('embedded-opentype'),
-              url('./fonts/LXGWWenKaiLite-Regular.woff2') format('woff2'),
-              url('./fonts/LXGWWenKaiLite-Regular.woff') format('woff'),
-              url('./fonts/LXGWWenKaiLite-Regular.ttf') format('truetype'),
-              url('./fonts/LXGWWenKaiLite-Regular.svg') format('svg');
-            font-weight: normal;
-            font-style: normal;
-          }
-
-          * {
-            font-family: 'LXGWWenKaiLite-Regular';
-          }
-      </style>
-    
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width initial-scale=1"><style type="text/css">html {overflow-x: initial !important;}</style>
-<style type="text/css" id="style-base">:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'><style type='text/css'>html {overflow-x: initial !important;}</style>
+<style type='text/css'  id="style-base">:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
 .mac-os-11 { --title-bar-height: 28px; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", "SF Pro", sans-serif; -webkit-font-smoothing: antialiased; }
 h1, h2, h3, h4, h5 { white-space: pre-wrap; }
@@ -242,8 +224,8 @@ mjx-container { break-inside: avoid; }
 .md-alert-text-container::after { content: attr(data-text); text-transform: capitalize; pointer-events: none; margin-right: 1ch; }
 
 </style>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&amp;subset=latin,latin-ext" type="text/css">
-<style type="text/css" id="style-theme_css">:root {
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&amp;subset=latin,latin-ext' type='text/css' />
+<style type='text/css'  id="style-theme_css">:root {
     --side-bar-bg-color: #fafafa;
     --control-text-color: #777;
 }
@@ -631,21 +613,11 @@ header, .context-menu, .megamenu-content, footer{
     background-image: linear-gradient( 180deg , hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0)); 
 }
 </style>
-<style type="text/css" id="style-lp">ol, ul {padding-left: 40px}</style>
+<style type='text/css'  id="style-lp">ol, ul {padding-left: 40px}</style>
 
 <title>resume</title>
 </head>
-<body class="typora-export os-windows"><div class="typora-export-content">
-<div id="write" class=""><h1 id="喻智勇-|-前端负责人--senior-frontend-engineer"><span>喻智勇 | 前端负责人 / Senior Frontend Engineer</span></h1><h2 id="联系方式"><span>联系方式</span></h2><ul><li><p><span>手机：13606640872  </span></p></li><li><p><span>邮箱：</span><a href="mailto:i.want.tobelieve.dev@gmail.com" target="_blank" class="url">i.want.tobelieve.dev@gmail.com</a><span>  </span></p></li><li><p><span>GitHub：</span><a href="https://github.com/I-Want-ToBelieve/" target="_blank" class="url">https://github.com/I-Want-ToBelieve/</a></p></li></ul><hr><h2 id="个人信息"><span>个人信息</span></h2><ul><li><p><span>男 / 1998  </span></p></li><li><p><span>工作经验：8年全栈开发经验（含Electron / 中台 / 桌面端 / Node 后端）</span></p></li><li><p><span>期望职位：前端负责人 / 高级前端工程师</span></p></li><li><p><span>期望城市：长沙</span></p></li><li><p><span>期望薪资：20K - 25K</span></p></li></ul><hr><h2 id="个人简介重点优化"><span>个人简介（重点优化）</span></h2><p><span>8年前端开发经验，具备 Web / Electron / Node 跨端研发能力，长期负责多个业务系统（官网、中台、桌面客户端）的架构设计与开发，具备前端技术负责人实际职责经验。</span></p><p><span>当前在公司中实际承担前端负责人角色，负责多个系统的技术方案设计、核心模块开发、线上稳定性保障与问题兜底。</span></p><p><span>具备较强的工程化体系建设能力（脚手架、CI/CD、规范体系、Monorepo），以及复杂桌面端系统（Electron + 设备通信 + 多进程架构）开发经验。</span></p><hr><h2 id="加分能力"><span>加分能力</span></h2><ul><li><p><span>NixOS 声明式系统（50+设备统一部署）</span></p></li><li><p><span>多机自动化系统（投屏 / 群控 / 锁屏）</span></p></li><li><p><span>Linux / Wayland / X11 深度使用</span></p></li><li><p><span>Node + WebSocket 实时系统经验</span></p></li><li><p><span>AI开发工具（Cursor / Claude Code）</span></p></li></ul><h2 id="核心能力"><span>核心能力</span></h2><h3 id="前端架构"><span>前端架构</span></h3><ul><li><p><span>React Hooks / Vue3</span></p></li><li><p><span>中大型中台系统设计</span></p></li><li><p><span>状态管理（Mobx / Hooks / 业务模型拆分）</span></p></li></ul><h3 id="electron--桌面端强项"><span>Electron / 桌面端（强项）</span></h3><ul><li><p><span>Electron 多进程架构设计（main/renderer/preload）</span></p></li><li><p><span>串口 / 蓝牙 / 设备通信</span></p></li><li><p><span>桌面端性能优化与打包体系</span></p></li><li><p><span>工业级分拣系统开发经验</span></p></li></ul><h3 id="工程化"><span>工程化</span></h3><ul><li><p><span>Webpack / Vite / Rollup</span></p></li><li><p><span>ESLint / Husky / Commitlint / CI规范体系</span></p></li><li><p><span>Monorepo（pnpm workspace）</span></p></li><li><p><span>前端脚手架与基础设施设计</span></p></li></ul><h3 id="nodejs"><span>Node.js</span></h3><ul><li><p><span>Koa / WebSocket / Socket.io</span></p></li><li><p><span>实时通信系统设计</span></p></li></ul><h3 id="基础能力"><span>基础能力</span></h3><ul><li><p><span>TypeScript 深度使用</span></p></li><li><p><span>Linux / NixOS 开发体系</span></p></li><li><p><span>性能优化 / 调试 / 内存问题排查</span></p></li><li><p><span>Effect-ts</span></p></li><li><p><span>前端逆向</span></p></li></ul><p>&nbsp;</p><hr><h2 id="工作经历"><span>工作经历</span></h2><h3 id="长沙璞源网络当前"><span>长沙璞源网络（当前）</span></h3><h4 id="前端负责人--技术owner"><span>前端负责人 / 技术Owner</span></h4><p><span>2024.11 - 至今</span></p><p><strong><span>职责</span></strong></p><ul><li><p><span>接管前端主程职责，负责官网 / 中台 / 客户端整体技术体系</span></p></li><li><p><span>前端架构设计与技术方案决策</span></p></li><li><p><span>线上系统稳定性保障与故障处理</span></p></li><li><p><span>技术规范体系建设与工程化统一</span></p></li><li><p><span>新人协作与任务拆分（负责人角色）</span></p></li></ul><p><strong><span>成果</span></strong></p><ul><li><p><span>独立维护三大核心系统（官网 / 中台 / 桌面客户端）</span></p></li><li><p><span>重构核心视频播放器模块，解决自动播放、DOM层级、进度条冲突等问题</span></p></li><li><p><span>建立统一前端工程规范（lint / commit / CI），提升多项目协作效率</span></p></li><li><p><span>设计Electron桌面分拣系统架构，保障设备通信与打印稳定性</span></p></li><li><p><span>完成线上问题闭环处理机制，提高系统稳定性</span></p></li></ul><hr><h3 id="深圳十方融海科技"><span>深圳十方融海科技</span></h3><h4 id="前端开发工程师"><span>前端开发工程师</span></h4><p><span>2022.03 - 2023.08</span></p><ul><li><p><span>负责ERP中台与数据可视化系统开发</span></p></li><li><p><span>参与中台架构设计（Mobx + Hooks）</span></p></li><li><p><span>建设接口请求与权限体系</span></p></li><li><p><span>推动工程规范化（lint / CI）</span></p></li></ul><hr><h3 id="深圳观麦科技"><span>深圳观麦科技</span></h3><h4 id="前端开发工程师-2"><span>前端开发工程师</span></h4><p><span>2018.06 - 2022.02</span></p><ul><li><p><span>负责ERP进销存系统开发</span></p></li><li><p><span>参与Electron桌面端分拣系统开发</span></p></li><li><p><span>实现串口通信 + 打印机控制逻辑</span></p></li><li><p><span>参与系统优化与重构</span></p></li></ul><hr><h2 id="项目经验"><span>项目经验</span></h2><h3 id="electron-分拣系统核心项目"><span>Electron 分拣系统（核心项目）</span></h3><ul><li><p><span>Electron + React + TypeScript 构建桌面工业系统</span></p></li><li><p><span>串口通信 / 蓝牙设备 / 标签打印全流程控制</span></p></li><li><p><span>使用任务队列解决打印机漏打问题</span></p></li><li><p><span>优化IPC通信结构提升系统稳定性</span></p></li></ul><hr><h3 id="视频播放器基础库"><span>视频播放器基础库</span></h3><ul><li><p><span>重构H5视频播放器组件</span></p></li><li><p><span>修复自动播放 / DOM层级 / 进度条事件问题</span></p></li><li><p><span>Rollup + TypeScript 打包体系重构</span></p></li><li><p><span>建立完整工程规范体系</span></p></li></ul><hr><h3 id="erp--中台系统"><span>ERP / 中台系统</span></h3><ul><li><p><span>负责核心ERP模块（进销存 / 数据中台）</span></p></li><li><p><span>设计Hooks + Mobx状态架构</span></p></li><li><p><span>支撑复杂业务系统稳定运行</span></p></li></ul><hr><p>&nbsp;</p><p>&nbsp;</p></div></div>
-
-
-    <!-- Google tag (gtag.js) -->
-    <script id="gtagjs" async="" src="https://www.googletagmanager.com/gtag/js?id=G-71VBYK4EQG"></script>
-    <script id="gtagjscode">
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-71VBYK4EQG');
-    </script>
-  </body></html>
+<body class='typora-export os-windows'><div class='typora-export-content'>
+<div id='write'  class=''><h1 id='喻智勇-|-前端负责人--senior-frontend-engineer'><span>喻智勇 | 前端负责人 / Senior Frontend Engineer</span></h1><h2 id='联系方式'><span>联系方式</span></h2><ul><li><p><span>手机：13606640872  </span></p></li><li><p><span>邮箱：</span><a href='mailto:i.want.tobelieve.dev@gmail.com' target='_blank' class='url'>i.want.tobelieve.dev@gmail.com</a><span>  </span></p></li><li><p><span>GitHub：</span><a href='https://github.com/I-Want-ToBelieve/' target='_blank' class='url'>https://github.com/I-Want-ToBelieve/</a></p></li></ul><hr /><h2 id='个人信息'><span>个人信息</span></h2><ul><li><p><span>男 / 1998  </span></p></li><li><p><span>工作经验：8年全栈开发经验（含Electron / 中台 / 桌面端 / Node 后端）</span></p></li><li><p><span>期望职位：前端负责人 / 高级前端工程师</span></p></li><li><p><span>期望城市：长沙</span></p></li><li><p><span>期望薪资：20K - 25K</span></p></li></ul><hr /><h2 id='个人简介重点优化'><span>个人简介（重点优化）</span></h2><p><span>8年前端开发经验，具备 Web / Electron / Node 跨端研发能力，长期负责多个业务系统（官网、中台、桌面客户端）的架构设计与开发，具备前端技术负责人实际职责经验。</span></p><p><span>当前在公司中实际承担前端负责人角色，负责多个系统的技术方案设计、核心模块开发、线上稳定性保障与问题兜底。</span></p><p><span>具备较强的工程化体系建设能力（脚手架、CI/CD、规范体系、Monorepo），以及复杂桌面端系统（Electron + 设备通信 + 多进程架构）开发经验。</span></p><hr /><h2 id='加分能力'><span>加分能力</span></h2><ul><li><p><span>NixOS 声明式系统（50+设备统一部署）</span></p></li><li><p><span>多机自动化系统（投屏 / 群控 / 锁屏）</span></p></li><li><p><span>Linux / Wayland / X11 深度使用</span></p></li><li><p><span>Node + WebSocket 实时系统经验</span></p></li><li><p><span>AI开发工具（Cursor / Claude Code）</span></p></li></ul><h2 id='核心能力'><span>核心能力</span></h2><h3 id='前端架构'><span>前端架构</span></h3><ul><li><p><span>React Hooks / Vue3</span></p></li><li><p><span>中大型中台系统设计</span></p></li><li><p><span>状态管理（Mobx / Hooks / 业务模型拆分）</span></p></li></ul><h3 id='electron--桌面端强项'><span>Electron / 桌面端（强项）</span></h3><ul><li><p><span>Electron 多进程架构设计（main/renderer/preload）</span></p></li><li><p><span>串口 / 蓝牙 / 设备通信</span></p></li><li><p><span>桌面端性能优化与打包体系</span></p></li><li><p><span>工业级分拣系统开发经验</span></p></li></ul><h3 id='工程化'><span>工程化</span></h3><ul><li><p><span>Webpack / Vite / Rollup</span></p></li><li><p><span>ESLint / Husky / Commitlint / CI规范体系</span></p></li><li><p><span>Monorepo（pnpm workspace）</span></p></li><li><p><span>前端脚手架与基础设施设计</span></p></li></ul><h3 id='nodejs'><span>Node.js</span></h3><ul><li><p><span>Koa / WebSocket / Socket.io</span></p></li><li><p><span>实时通信系统设计</span></p></li></ul><h3 id='基础能力'><span>基础能力</span></h3><ul><li><p><span>TypeScript 深度使用</span></p></li><li><p><span>Linux / NixOS 开发体系</span></p></li><li><p><span>性能优化 / 调试 / 内存问题排查</span></p></li><li><p><span>Effect-ts</span></p></li><li><p><span>前端逆向</span></p></li></ul><p>&nbsp;</p><hr /><h2 id='工作经历'><span>工作经历</span></h2><h3 id='长沙璞源网络当前'><span>长沙璞源网络（当前）</span></h3><h4 id='前端负责人--技术owner'><span>前端负责人 / 技术Owner</span></h4><p><span>2024.11 - 至今</span></p><p><strong><span>职责</span></strong></p><ul><li><p><span>接管前端主程职责，负责官网 / 中台 / 客户端整体技术体系</span></p></li><li><p><span>前端架构设计与技术方案决策</span></p></li><li><p><span>线上系统稳定性保障与故障处理</span></p></li><li><p><span>技术规范体系建设与工程化统一</span></p></li><li><p><span>新人协作与任务拆分（负责人角色）</span></p></li></ul><p><strong><span>成果</span></strong></p><ul><li><p><span>独立维护三大核心系统（官网 / 中台 / 桌面客户端）</span></p></li><li><p><span>重构核心视频播放器模块，解决自动播放、DOM层级、进度条冲突等问题</span></p></li><li><p><span>建立统一前端工程规范（lint / commit / CI），提升多项目协作效率</span></p></li><li><p><span>设计Electron桌面分拣系统架构，保障设备通信与打印稳定性</span></p></li><li><p><span>完成线上问题闭环处理机制，提高系统稳定性</span></p></li></ul><hr /><h3 id='深圳十方融海科技'><span>深圳十方融海科技</span></h3><h4 id='前端开发工程师'><span>前端开发工程师</span></h4><p><span>2022.03 - 2023.08</span></p><ul><li><p><span>负责ERP中台与数据可视化系统开发</span></p></li><li><p><span>参与中台架构设计（Mobx + Hooks）</span></p></li><li><p><span>建设接口请求与权限体系</span></p></li><li><p><span>推动工程规范化（lint / CI）</span></p></li></ul><hr /><h3 id='深圳观麦科技'><span>深圳观麦科技</span></h3><h4 id='前端开发工程师-2'><span>前端开发工程师</span></h4><p><span>2018.06 - 2022.02</span></p><ul><li><p><span>负责ERP进销存系统开发</span></p></li><li><p><span>参与Electron桌面端分拣系统开发</span></p></li><li><p><span>实现串口通信 + 打印机控制逻辑</span></p></li><li><p><span>参与系统优化与重构</span></p></li></ul><hr /><h2 id='项目经验'><span>项目经验</span></h2><h3 id='electron-分拣系统核心项目'><span>Electron 分拣系统（核心项目）</span></h3><ul><li><p><span>Electron + React + TypeScript 构建桌面工业系统</span></p></li><li><p><span>串口通信 / 蓝牙设备 / 标签打印全流程控制</span></p></li><li><p><span>使用任务队列解决打印机漏打问题</span></p></li><li><p><span>优化IPC通信结构提升系统稳定性</span></p></li></ul><hr /><h3 id='视频播放器基础库'><span>视频播放器基础库</span></h3><ul><li><p><span>重构H5视频播放器组件</span></p></li><li><p><span>修复自动播放 / DOM层级 / 进度条事件问题</span></p></li><li><p><span>Rollup + TypeScript 打包体系重构</span></p></li><li><p><span>建立完整工程规范体系</span></p></li></ul><hr /><h3 id='erp--中台系统'><span>ERP / 中台系统</span></h3><ul><li><p><span>负责核心ERP模块（进销存 / 数据中台）</span></p></li><li><p><span>设计Hooks + Mobx状态架构</span></p></li><li><p><span>支撑复杂业务系统稳定运行</span></p></li></ul><hr /><p>&nbsp;</p><p>&nbsp;</p></div></div>
+</body>
+</html>
