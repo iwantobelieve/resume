@@ -6,18 +6,19 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "pnpm tsx src/index.ts && pnpm run font-spider index.html",
     "one": "git add . && git commit -m \"update\" && git push origin HEAD:gh-pages"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/doublethinkio/resume.git"
+    "url": "git+https://github.com/iwantobelieve/resume.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/doublethinkio/resume/issues"
+    "url": "https://github.com/iwantobelieve/resume/issues"
   },
-  "homepage": "https://github.com/doublethinkio/resume#readme",
+  "homepage": "https://github.com/iwantobelieve/resume#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "font-spider": "^1.3.5"
